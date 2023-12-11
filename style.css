@@ -1,0 +1,29 @@
+body{
+    padding: 50px 100px;
+    background-color:cadetblue
+}
+
+h1{
+    text-align: center;
+    background-color:lightgreen;
+    color:whitesmoke;
+    padding: 10px;
+    margin: 0px;
+    border: lightgreen;
+}
+
+#textbox{
+    width: 99.5%;
+    font-size: 15px;
+    
+}
+
+p{
+    text-align: center;
+    background-color: lightgreen;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    padding: 10px;
+    margin: 0px;
+}
